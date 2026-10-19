@@ -1,6 +1,6 @@
 # Burkina Faso's Sovereign Gold Strategy
 
-Code for the paper *Burkina Faso's Sovereign Gold Strategy* (Joe Dusevic, 2026).
+Independent research paper and code by Joe Dusevic, International Relations graduate of the University of Sydney (2026). [LinkedIn](https://www.linkedin.com/in/joe-dusevic)
 
 `burkina_gold_models.py` reproduces every computed figure in the paper. It has three parts:
 
@@ -18,10 +18,8 @@ Code for the paper *Burkina Faso's Sovereign Gold Strategy* (Joe Dusevic, 2026).
 
 ## How to run
 
-```
-pip install numpy pandas matplotlib
-python burkina_gold_models.py              # all three parts
-python burkina_gold_models.py squeeze      # one part: mirror | squeeze | security
-```
+    pip install numpy pandas matplotlib
+    python burkina_gold_models.py              # all three parts
+    python burkina_gold_models.py squeeze      # one part: mirror | squeeze | security
 
 Results print to the console; tables and charts are saved to `outputs/`. Sources and assumptions are documented in the script.
