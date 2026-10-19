@@ -1,5 +1,4 @@
 Burkina Faso's Sovereign Gold Strategy
-Burkina Faso's Sovereign Gold Strategy
 Joe Dusevic
 Independent graduate research paper · 16 October 2026
 Abstract
@@ -240,13 +239,16 @@ matters later is that, whatever their approach to gold, all three states remain 
 The strategy is pursued in a long war over territory where much of Burkina F aso's gold lies.
 The IMF , citing the Global T errorism Index, ranks the country second only to P akistan, with
 about 2.1 million people displaced, and the government aims at full reconquest of its
-territory only by 2030 (IMF , 2026b). Gold is part of what the war is fought over . Armed
-groups seize or tax artisanal sites across the central Sahel and smuggle the gold to world
-markets (International Crisis Group, 2019), a pattern f amiliar from conflicts in which easily
-extracted resources finance armed groups and power is organised around resource areas
-and trading networks (Le Billon, 2001). Gold accounts for 90 per cent of recorded mining-
-related political violence in the AES states, and JNIM, the main jihadist coalition, taxes
-local mining and uses some sites as bases (ACLED , 2026).
+territory only by 2030 (IMF , 2026b). The regime took power in 2022 promising to defeat
+the insurgency; the war has continued, and in 2024, citing security , it extended its
+transition by five years and postponed elections (Al Jazeera, 2022; Africanews, 2024).
+Gold is part of what the war is fought over . Armed groups seize or tax artisanal sites
+across the central Sahel and smuggle the gold to world markets (International Crisis
+Group, 2019), a pattern f amiliar from conflicts in which easily extracted resources finance
+armed groups and power is organised around resource areas and trading networks (Le
+Billon, 2001). Gold accounts for 90 per cent of recorded mining-related political violence in
+the AES states, and JNIM, the main jihadist coalition, taxes local mining and uses some
+sites as bases (ACLED , 2026).
 The war supplies a motive. T raoré presents drawing gold into official channels as a way to
 cut armed groups off from smuggling revenue (Arise News, 2026), and the government
 has pledged mining revenue partly to security (North Africa Post, 2025). Whether control
@@ -262,10 +264,10 @@ and two moves stand out: an aggressive campaign against the gold black market, a
 state's emergence as a gold producer . Around them sit the instruments of the 2024
 mining code and the decrees that followed. The code raised the state's free carried
 interest in every mine from 10 to 15 per cent, gave it a paid subscription right to at least a
-further 30 per cent, for itself and/or national private investors (Lef aso.net, 2024; Ecofin,
-2025e), made a priority dividend to the state mandatory (W est African Resources, 2026e)
 Page 7 of 32
 Burkina Faso's Sovereign Gold Strategy
+further 30 per cent, for itself and/or national private investors (Lef aso.net, 2024; Ecofin,
+2025e), made a priority dividend to the state mandatory (W est African Resources, 2026e)
 and f avoured national suppliers (Mining W eekly , 2025a). A royalty regime introduced in
 April 2025 raises the rate as the gold price rises (MiningMX, 2026), and SONASP holds
 purchase agreements with industrial miners (Burkina24, 2024).
@@ -302,10 +304,10 @@ finance, export earnings channelled into the franc system and a visible act of s
 The figures need caution. The 2026 collections imply , on a simple doubling, an annual rate
 near 58 tonnes, which could reflect further formalisation, real growth, reclassified semi-
 mechanised output, sales from old stocks or gold drawn from neighbouring countries; the
-sources do not distinguish among these. The figures show the reach of state purchasing
-over formal channels, not reduced smuggling or the state's share of the underlying
 Page 8 of 32
 Burkina Faso's Sovereign Gold Strategy
+sources do not distinguish among these. The figures show the reach of state purchasing
+over formal channels, not reduced smuggling or the state's share of the underlying
 market. Formalisation also lasts only while selling to the state serves miners better than
 the alternatives, and efforts to formalise artisanal mining in sub-Saharan Africa have often
 f ailed for that reason (Hilson, 2007; Hilson and McQuilken, 2014).
@@ -341,12 +343,12 @@ the London Bullion Market Association's Good Delivery standard, and South Africa
 Refinery is the only accredited gold refiner in Africa (Ecofin, 2026e). Until Raffinor-BF is
 accredited, domestic refining extends control without giving Burkinabè bars the standing
 a reserve asset would need.
+Page 9 of 32
+Burkina Faso's Sovereign Gold Strategy
 Rent capture
 W AF shows how the state extracts value where it does not take ownership. It produced
 300,383 ounces, about 9.3 tonnes, in 2025 (W est African Resources, 2026d), roughly 18
 per cent of industrial output (Capmad, 2026b). High grades underpin its economics: its
-Page 9 of 32
-Burkina Faso's Sovereign Gold Strategy
 managing director has put the average resource grade of the M1 South deposit at
 Sanbrado at about 12 grams per tonne, against 1.5 to 2 grams at typical W est African mines
 (Stockhead, n.d.), and low costs let it bear a rising state take. Its operator has shown no
@@ -381,12 +383,12 @@ substitutes Essakane's royalties of about US$460 an ounce, some 13 per cent of t
 average price (AP A News, 2026b), which would put royalties nearer CF AF 440 billion and
 the total at about CF AF 970 billion. The resulting range of roughly CF AF 620 to 970 billion,
 or 4 to 6 per cent of GDP , is a proxy estimate rather than an observed figure. It is of the
+Page 10 of 32
+Burkina Faso's Sovereign Gold Strategy
 same order as the IMF's figure of CF AF 573 billion in mining revenue for the first nine
 months of 2025 (IMF , 2026a), but the measures differ in coverage and timing, and
 Essakane's royalty figure may include levies W AF reports separately , so the comparison
 narrows the uncertainty without removing it.
-Page 10 of 32
-Burkina Faso's Sovereign Gold Strategy
 Artisanal gold is larger in volume but uncertain as revenue: the 42 tonnes recorded in
 2025 were worth about CF AF 2.7 trillion if treated as fine gold, yet SONASP's accounts
 show what the state earns from buying it: a net profit of CF AF 5.9 billion and a budget
@@ -421,11 +423,11 @@ arrangement (T aylor , 2019; Pigeaud and Sylla, 2021), is first a support for th
 stable, convertible currency helps SONASP compete with smugglers and reassures
 foreign miners; the regional development bank finances state mines; Burkina F aso raised
 about CF AF 1,189 billion on the regional securities market in 2025 (IMF , 2026b); and the
+Page 11 of 32
+Burkina Faso's Sovereign Gold Strategy
 union's pooled reserves, about US$33 billion in October 2025 (Ecofin, 2025d), cushion f alls
 in gold earnings. What it does not provide is national monetary policy . The 2019 reform
 ended the requirement to deposit half the BCEAO's reserves with the French T reasury
-Page 11 of 32
-Burkina Faso's Sovereign Gold Strategy
 but kept the euro parity and France's guarantee (F asken, 2020), so a shock specific to
 Burkina F aso must be absorbed through the budget and borrowing, and, as Mali and Niger
 found, access to the union's resources can be cut off .
@@ -462,21 +464,20 @@ chairs the monetary union's council of ministers (IMF , 2026b).
 The sharpest gap concerns the franc itself . In the statements examined here, the regime
 denounces it as a colonial relic without acknowledging what it provides, and the strategy
 depends on exactly those benefits: convertibility for SONASP and foreign producers,
+Page 12 of 32
+Burkina Faso's Sovereign Gold Strategy
 regional credit for state mines and the budget, and the stability of pooled reserves and
 low inflation (Section 4.3). Admitting any of this would concede that the colonial relic
 serves the sovereign project.
-Page 12 of 32
-Burkina Faso's Sovereign Gold Strategy
 The contrast is observable; what follows interprets its function. Read this way , the gap
 may be an asset to the strategy , because talk and conduct address different audiences.
 The rhetoric is aimed at home, where it plausibly helps secure support for a military
-government that has postponed elections, extending the transition by five years in 2024
-(Africanews, 2024). That support is tied to the war: the regime took power promising to
-defeat the insurgency (Al Jazeera, 2022), and anti-colonial rhetoric presents gold control
-both as recovering national wealth and as cutting armed groups off from revenue. It may
-also let negotiated compromise with foreign capital read at home as sovereignty , and
-channel anti-colonial demands into gold, where the state can deliver visible results, rather
-than into a costly exit from the franc. The conduct is aimed at the miners, lenders, IMF and
+government that has postponed elections (Section 4.1). That support is tied to the war the
+regime promised to win, and anti-colonial rhetoric presents gold control both as
+recovering national wealth and as cutting armed groups off from revenue. It may also let
+negotiated compromise with foreign capital read at home as sovereignty , and channel
+anti-colonial demands into gold, where the state can deliver visible results, rather than
+into a costly exit from the franc. The conduct is aimed at the miners, lenders, IMF and
 BCEAO on which the strategy depends, and on that record it has kept investment, credit
 and convertibility . The audiences are not fully separate, however . Financial markets also
 hear the talk aimed at home, so the dissonance that sustains support domestically may
@@ -503,10 +504,10 @@ of Section 4.3 apply with more force to a currency issued by three governments a
 a weak union of poor , landlocked states exposed to the same shocks (Mundell, 1961;
 Alesina and Barro, 2002), and leaving the franc would mean dividing the BCEAO's pooled
 reserves. Burkina F aso's two-thirds share of AES gold sharpens the problem: a gold-
-backed sira would rest largely on its reserves, inviting partners to borrow against gold
-they did not produce, prompting Burkina F aso to demand proportionate control, and
 Page 13 of 32
 Burkina Faso's Sovereign Gold Strategy
+backed sira would rest largely on its reserves, inviting partners to borrow against gold
+they did not produce, prompting Burkina F aso to demand proportionate control, and
 exposing the whole union to its gold-price and security risks. The region has tried
 monetary independence before: Mali left the franc zone in 1962 and rejoined in 1984
 (Direction générale du T résor , n.d.). For Burkina F aso, which would bear most of its cost,
@@ -542,10 +543,10 @@ calculations). The result depends most on whether the deficit ceiling is enforce
 government tolerated a deficit of 4 per cent of GDP , the squeeze would bind only after a
 f all of 37 to 52 per cent, and the 2024 deficit of 5.8 per cent suggests the ceiling has not
 always bound. The war matters almost as much as the price: if security spending widened
-the non-mining deficit by half a point of GDP , the squeeze would bind after a f all of only 9
-per cent, and by a full point it would bind with no f all at all. The exchange rate matters too,
 Page 14 of 32
 Burkina Faso's Sovereign Gold Strategy
+the non-mining deficit by half a point of GDP , the squeeze would bind after a f all of only 9
+per cent, and by a full point it would bind with no f all at all. The exchange rate matters too,
 since a euro 10 per cent stronger against the dollar would cut the breakeven f all to 11 per
 cent, and one 10 per cent weaker would raise it to 27. Assumptions about SONASP's
 financing, by contrast, barely move the result: at the holding periods its accounts imply ,
