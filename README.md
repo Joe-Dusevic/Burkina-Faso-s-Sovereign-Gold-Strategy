@@ -1,6 +1,6 @@
 # Burkina Faso's Sovereign Gold Strategy
 
-Independent research paper and code by Joe Dusevic, International Relations graduate of the University of Sydney (2026). [LinkedIn](https://www.linkedin.com/in/joe-dusevic)
+Independent research paper and code by Joe Dusevic, International Relations graduate of the University of Sydney (2026). [LinkedIn](https://www.linkedin.com/in/joe-dusevic-203160191)
 
 `burkina_gold_models.py` reproduces every computed figure in the paper. It has three parts:
 
